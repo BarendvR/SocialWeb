@@ -60,6 +60,6 @@ The [Hype notebook](Hype.ipynb) calculates and visualizes the twitter hype.
 
 # Tweet analysis
 
-The [Tweet analysis notebook](Tweet-analysis.ipynb) looks at the content of tweets and their populairity. Certain part take over an hour to run and everything should be visible on github. Therefore, it is not recommanded to run this notebook
+The [Tweet analysis notebook](Tweet-analysis.ipynb) looks at the content of tweets and their populairity. Certain parts take over an hour to run and everything should be visible on github. Therefore, it is not recommended to run this notebook
 
 
