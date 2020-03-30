@@ -17,12 +17,11 @@ Vrije universiteit Information science Social web course project about coronavir
 
 <!--ts-->
   * [Table of contents](#table-of-contents)
-  * [Quickstart](#Quickstart)
+  * [Quickstart](#quickstart)
   * [Data](#data)
-  * [The network](#the-network)
-  * [Research question](#rq)
-  * [The Results](#results)
-  * [Thesis](#thesis)    
+  * [Data visualization](#data-visualization)
+  * [Hype](#hype)
+  * [Tweet analysis](#tweet-analysis)
 <!--te-->
 # Quickstart
 
