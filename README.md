@@ -49,7 +49,7 @@ The data is further processed and explored in:
 
 # Data visualization
 
-[Plotly](https://github.com/plotly/plotly.py) was used for an interactive plot design. Unfortunately github does not show these plots. Therefore, a .PNG file for each plot can be found in the [Plot](Plots) folder.
+[Plotly](https://github.com/plotly/plotly.py) was used for an interactive plot design. Unfortunately github does not show these plots. Therefore, a .PNG file for each plot can be found in the [Plots](Plots) folder.
 
 To see the the interactive graphs in action a local run of the notebooks is needed. 
 
