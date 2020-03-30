@@ -17,13 +17,18 @@ Vrije universiteit Information science Social web course project about coronavir
 
 <!--ts-->
   * [Table of contents](#table-of-contents)
+  * [Quickstart](#Quickstart)
   * [Data](#data)
-  * [How to run](#how-to-run)
   * [The network](#the-network)
   * [Research question](#rq)
   * [The Results](#results)
   * [Thesis](#thesis)    
 <!--te-->
+# Quickstart
+
+Install [Jupyter notebook](https://jupyter.org/install) `pip install jupyterlab`
+
+Install plotly `pip install "notebook>=5.3" "ipywidgets>=7.2"`
 
 # Data 
 We gathered our Twitter data via scrapting using a slightly modified version of the scraper found at: https://github.com/Jefferson-Henrique/GetOldTweets-python
