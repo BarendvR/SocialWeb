@@ -1,9 +1,20 @@
 # SocialWeb: Final Report - Project Group 26
-## Final Report - Project Group 26How Does Hype Surrounding a Viral Epidemic Evolve Over Its Lifespan?
+## How Does Hype Surrounding a Viral Epidemic Evolve Over Its Lifespan?
 
 Vrije universiteit Information science Social web course project about coronavirus.
 
+# Table of contents
 
+
+<!--ts-->
+  * [Table of contents](#table-of-contents)
+  * [How to run](#how-to-run)
+  * [Data](#data)
+  * [The network](#the-network)
+  * [Research question](#rq)
+  * [The Results](#results)
+  * [Thesis](#thesis)    
+<!--te-->
 
 
 
@@ -14,32 +25,8 @@ https://github.com/CSSEGISandData/COVID-19/
 It outputs the current total number of confirmed coronavirus cases, deaths and recoveries. It also exports the number of confirmed cases, deaths and recoveries per day to CSV files and plots this data on a graph.
 
 
-
-
-# SocialWeb
-Vrije universiteit Information science Social web course project about coronavirus.
-
-
-
-
-
-# Table of contents
-
-
-<!--ts-->
-  * [Table of contents](#table-of-contents)
-  * [Data](#data)
-  * [The network](#the-network)
-  * [Research question](#rq)
-  * [The Results](#results)
-  * [Thesis](#thesis)
-  
- 
-  
-<!--te-->
-
 # Data  
-In this notebook I take a closer look at the data and what it has to offer.  
+Because of the twitter ToS 
 [Data notebook](Data.ipynb)  
 
 # The network  
