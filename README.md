@@ -1,10 +1,12 @@
 # SocialWeb: Final Report - Project Group 26
 
-|   	|   	|   	|
+|Name|Student ID|Email|
 |---	|---	|---	|
-|   	|   	|   	|
-|   	|   	|   	|
-|   	|   	|   	|
+|Barend van Rooij|2563934|b.w.vanrooij@student.vu.nl|
+|Jakob Kyselica|2593776|j.m.kyselica@student.vu.nl|
+|Noah Voogd|2666711|s.n.voogd@student.vu.nl|
+|Mark Limudjianto|2687882|m.o.limudjianto@student.vu.nl|
+|Mees Bulder|2682775|m.r.j.bulder@student.vu.nl|
 
 ## How Does Hype Surrounding a Viral Epidemic Evolve Over Its Lifespan?
 
