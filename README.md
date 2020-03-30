@@ -1,4 +1,11 @@
 # SocialWeb: Final Report - Project Group 26
+
+|   	|   	|   	|
+|---	|---	|---	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+
 ## How Does Hype Surrounding a Viral Epidemic Evolve Over Its Lifespan?
 
 Vrije universiteit Information science Social web course project about coronavirus.
