@@ -41,7 +41,7 @@ We gathered our Twitter data via scrapting using a slightly modified version of 
 Because of the Twitter ToS we can not make our data publicly available, but if you want acces to the data please contact us at barendvanrooij@gmail.com and we will see what we can do.
 
 The COVID-19 statistics used in this project came from https://github.com/CSSEGISandData/COVID-19/
-The file 'casesDeathRecoveries.py' contains the Python script that gets the data provided by that git repository. It outputs the current total number of confirmed coronavirus cases, deaths and recoveries. It also exports the number of confirmed cases, deaths and recoveries per day to CSV files and plots this data on a graph.
+The file 'casesDeathRecoveries.py' contains the Python script that gets the data provided by that git repository. It outputs the current total number of confirmed coronavirus cases, deaths and recoveries. It also exports the number of confirmed cases, deaths and recoveries per day to CSV files which can be found in [Data/Cases](Data/Cases)  and plots this data on a graph. 
 
 The data is further processed and explored in:
 [Data notebook](Data.ipynb)  
