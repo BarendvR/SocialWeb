@@ -28,7 +28,13 @@ Vrije universiteit Information science Social web course project about coronavir
 
 Install [Jupyter notebook](https://jupyter.org/install) `pip install jupyterlab`
 
-Install plotly `pip install "notebook>=5.3" "ipywidgets>=7.2"`
+Install [Plotly](https://github.com/plotly/plotly.py) `pip install "notebook>=5.3" "ipywidgets>=7.2"`
+
+Put the data folder in the same folder as the notebooks.
+
+If you only have the source data run the [Data notebook](Data.ipynb) first.
+
+If you have the full processed data you can start by running the other notebooks.
 
 # Data 
 We gathered our Twitter data via scrapting using a slightly modified version of the scraper found at: https://github.com/Jefferson-Henrique/GetOldTweets-python
@@ -41,15 +47,20 @@ The file 'casesDeathRecoveries.py' contains the Python script that gets the data
 The data is further processed and explored in:
 [Data notebook](Data.ipynb)  
 
-# The network  
-[The network notebook](CreatingNetwork.ipynb)
-  
-# RQ
-How do hyper-parameters like a weight threshold for authors impact the measures of a network for ranking data science conferences and journals?
+# Data visualization
 
-# Results
-[The results notebook](Results.ipynb)  
+[Plotly](https://github.com/plotly/plotly.py) was used for an interactive plot design. Unfortunately github does not show these plots. Therefore, a .PNG file for each plot can be found in the [Plot](Plot) folder.
 
-# Thesis
-[Thesis pdf](Thesis_Barend_van_Rooij.pdf)
+To see the the interactive graphs in action a local run of the notebooks is needed. 
+
+The [data visualization notebook](Data visualization.ipynb) visualizes the data gathered.
+
+# Hype
+
+The [Hype notebook](Hype.ipynb) calculates and visualizes the twitter hype. 
+
+# Tweet analysis
+
+The [Tweet analysis notebook](Tweet analysis.ipynb) looks at the content of tweets and their populairity. Certain part take over an hour to run and everything should be visible on github. Therefore, it is not recommanded to run this notebook
+
 
